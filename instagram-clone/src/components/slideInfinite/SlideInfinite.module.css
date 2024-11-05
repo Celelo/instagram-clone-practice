@@ -1,0 +1,28 @@
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+
+.container {
+    /* max-width: 700px; */
+    margin: auto;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.list {
+animation: 10s slide infinite linear;
+display: inline-block;
+white-space: nowrap;
+overflow: hidden;
+width: 2400px;
+}
+
+
+
+

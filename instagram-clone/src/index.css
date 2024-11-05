@@ -1,0 +1,8 @@
+body {
+    padding-inline: 20px;
+    min-height: 100vh;
+    display: grid;
+    grid-auto-columns: 100%;
+    align-items: center;
+    justify-content: center;
+}

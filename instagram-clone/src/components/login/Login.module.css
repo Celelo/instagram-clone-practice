@@ -1,0 +1,47 @@
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    border: 1px solid rgb(201, 166, 166);
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.input_container {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.input_container label{
+display: block;
+}
+
+.input_container input {
+    width: 93%;
+    padding: 4px 8px;
+}
+
+input[type='submit'] {
+    display: block;
+    margin: auto;
+    cursor: pointer;
+}
+
+.wiew_password {
+position: absolute;
+top: 25px;
+right: 10px;
+cursor: pointer;
+}
+.register_legend {
+    text-align: center;
+}
+
+.register_btn {
+    color: rgb(208, 208, 221);
+}

@@ -1,0 +1,18 @@
+
+
+.slide_item {
+    padding-inline: 10px;
+    display: inline-block;
+}
+
+.slide_img {
+    border-radius: 10px;
+    aspect-ratio: 16/9;
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+}
+
+
+/* 1 h:30 */
+

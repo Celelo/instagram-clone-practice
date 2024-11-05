@@ -1,0 +1,7 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: 640px;
+    margin: auto;
+    margin-block: 15px;
+}
